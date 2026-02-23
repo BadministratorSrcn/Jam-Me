@@ -1,0 +1,33 @@
+{
+    "fc_port": "/dev/ttyAMA0",
+    "gps_port": "/dev/ttyUSB0",
+    "fc_baud": 921600,
+    "gps_baud": 9600,
+
+    "cam_id": 0,
+    "cam_width": 640,
+    "cam_height": 480,
+    "cam_fps": 30,
+
+    "tile_dir": "tiles",
+    "tile_config": "tile_config.json",
+    "map_dir": "reference_maps",
+    "map_config": "config.json",
+
+    "feature_detector": "ORB",
+    "min_match_count": 15,
+    "match_ratio": 0.75,
+    "ransac_threshold": 5.0,
+
+    "nmea_rate_hz": 5,
+    "fix_quality": 1,
+    "num_satellites": 12,
+    "hdop": 0.9,
+
+    "max_cached_tiles": 9,
+    "tile_preload_radius": 1,
+    "optical_flow_fallback": true,
+
+    "process_noise": 0.1,
+    "measurement_noise": 1.0
+}

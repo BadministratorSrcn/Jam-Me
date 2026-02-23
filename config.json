@@ -1,0 +1,15 @@
+{
+    "maps": [
+        {
+            "image": "area1.jpg",
+            "corners": {
+                "top_left":     {"lat": 39.9200, "lon": 32.8540},
+                "top_right":    {"lat": 39.9200, "lon": 32.8640},
+                "bottom_left":  {"lat": 39.9150, "lon": 32.8540},
+                "bottom_right": {"lat": 39.9150, "lon": 32.8640}
+            },
+            "altitude_agl": 50
+        }
+    ],
+    "default_altitude": 50
+}
