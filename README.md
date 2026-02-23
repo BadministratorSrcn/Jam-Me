@@ -91,9 +91,7 @@ Raspberry Pi                         Pixhawk / FC
 ## Installation
 
 ```bash
-# Clone the repository
-git clone https://github.com/YOUR_USERNAME/visual-gps.git
-cd visual-gps
+
 
 # Install dependencies
 pip install opencv-python-headless numpy pyserial pymavlink
