@@ -329,7 +329,7 @@ Works with any flight mode that uses GPS: Auto, Guided, RTL, Loiter, PosHold.
 
 MIT License — see [LICENSE](LICENSE) for details.
 
-This software is provided "AS IS" without warranty of any kind. See the [Disclaimer](#️-disclaimer) section for full terms.
+This software is provided without warranty of any kind. See the [Disclaimer](#️-disclaimer) section for full terms.
 
 ## Contributing
 
