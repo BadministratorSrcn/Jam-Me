@@ -1,8 +1,5 @@
 # JAM-Me — GPS-Denied Navigation with Visual Localization & NMEA Simulation
 
-<p align="center">
-  <img src="docs/architecture.png" alt="System Architecture" width="700">
-</p>
 
 > **Autonomous flight without GPS** — using only a Raspberry Pi camera and pre-loaded satellite imagery to determine position and feed NMEA GPS data to any ArduPilot flight controller.
 
@@ -26,7 +23,7 @@ By using this software, you acknowledge and agree that:
 
 ## Overview
 
-Visual GPS enables autonomous drone flight in GPS-denied environments by matching real-time camera footage against geo-referenced satellite imagery. The system outputs standard NMEA 0183 sentences to the flight controller — from the FC's perspective, it's receiving data from a regular GPS module.
+JAM-Me enables autonomous drone flight in GPS-denied environments by matching real-time camera footage against geo-referenced satellite imagery. The system outputs standard NMEA 0183 sentences to the flight controller — from the FC's perspective, it's receiving data from a regular GPS module.
 
 ### Key Features
 
