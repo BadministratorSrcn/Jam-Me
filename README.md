@@ -1,4 +1,4 @@
-# Visual GPS — GPS-Denied Navigation with Visual Localization & NMEA Simulation
+# JAM-Me — GPS-Denied Navigation with Visual Localization & NMEA Simulation
 
 <p align="center">
   <img src="docs/architecture.png" alt="System Architecture" width="700">
